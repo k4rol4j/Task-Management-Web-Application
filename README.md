@@ -1,32 +1,34 @@
-## Temat projektu: Aplikacja lista TODO
+## Project Topic: TODO List Application
 
-## 🚀 Jak uruchomić lokalnie
+## 🚀 How to Run Locally
 
-### 1. Sklonuj repozytorium
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/<k4rol4j>/restaurants-app.git
 cd restaurants-app
 ```
-### 2. Uruchom frontend
+
+### 2. Run the frontend
 
 ```bash
 cd frontend-react
-npm install     # tylko przy pierwszym uruchomieniu
+npm install     # only on the first run
 npm run dev
 ```
 
-### 3. Uruchom backend
+### 3. Run the backend
 
-Otwórz drugi terminal:
+Open a second terminal:
 
 ```bash
 cd backend-nodejs
-npm install        # tylko przy pierwszym uruchomieniu
+npm install        # only on the first run
 npm run start:dev
 ```
 
-### 4. Dostęp do aplikacji
+### 4. Access the application
 
-Po uruchomieniu obu części przejdź do:
+After starting both parts, go to:
+
 🔗 http://localhost:5173
